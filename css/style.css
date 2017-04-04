@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+}
+
+.main {
+    position: relative;
+}
+
+.main span {
+    width: 10px;
+    height: 10px;
+    background: red;
+    z-index: 1;
+    position: absolute;
+    border-radius: 100%;
+    color: white;
+    cursor: pointer;
+}
